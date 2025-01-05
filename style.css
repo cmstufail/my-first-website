@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  margin: 0 auto;
+  padding: 15px;
+  text-align: center;
+  margin-top: 50px;
+  border: 2px solid tomato;
+  width: 350px;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.heading{
+  margin-bottom: 20px;
+  color: green;
+}
+
+button {
+  padding: 5px;
+  background: black;
+  font-size: 17px;
+  color: white;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
